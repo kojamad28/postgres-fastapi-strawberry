@@ -1,3 +1,3 @@
 # Basic Postgres Python
 
-This repository provides a basic python environment connected with PostgreSQL database.
+This repository provides a fastapi project template using strawberry connected with PostgreSQL database.
