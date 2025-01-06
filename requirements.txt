@@ -10,3 +10,8 @@ fastapi-structlog
 uvicorn[standard]
 alembic
 strawberry-graphql[fastapi]
+pytest
+pytest-randomly
+pytest-cov
+pytest-structlog
+factory-boy
