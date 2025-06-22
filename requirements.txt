@@ -4,7 +4,7 @@ mypy
 tox
 psycopg
 sqlmodel
-sqlacodegen_v2
+sqlacodegen
 fastapi[all]
 fastapi-structlog
 uvicorn[standard]
