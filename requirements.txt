@@ -15,3 +15,4 @@ pytest-randomly
 pytest-cov
 pytest-structlog
 factory-boy
+sentry-sdk[fastapi]
