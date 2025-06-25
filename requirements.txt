@@ -1,18 +1,1 @@
-black
-ruff
-mypy
-tox
-psycopg
-sqlmodel
-sqlacodegen
-fastapi[all]
-fastapi-structlog
-uvicorn[standard]
-alembic
-strawberry-graphql[fastapi]
-pytest
-pytest-randomly
-pytest-cov
-pytest-structlog
-factory-boy
-sentry-sdk[fastapi]
+-r requirements/prod.txt
