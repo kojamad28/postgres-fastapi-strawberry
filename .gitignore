@@ -57,6 +57,9 @@ cover/
 *.mo
 *.pot
 
+# Uploaded files
+media/
+
 # Django stuff:
 *.log
 local_settings.py
@@ -125,6 +128,7 @@ celerybeat.pid
 
 # Environments
 .env
+.env.dev
 .venv
 env/
 venv/
