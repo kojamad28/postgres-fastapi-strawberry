@@ -1,5 +1,6 @@
 uvicorn[standard]
 fastapi[all]
+strawberry-graphql[fastapi]
 -r common.txt
 black
 ruff

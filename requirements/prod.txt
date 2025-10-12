@@ -1,4 +1,5 @@
 uvicorn[standard]==0.34.2
 fastapi[all]==0.115.8
+strawberry-graphql[fastapi]==0.283.3
 -r common.txt
 sentry-sdk[fastapi]

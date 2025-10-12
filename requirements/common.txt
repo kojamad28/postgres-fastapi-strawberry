@@ -5,4 +5,3 @@ sqlmodel
 sqlacodegen
 fastapi-structlog
 alembic
-strawberry-graphql[fastapi]
