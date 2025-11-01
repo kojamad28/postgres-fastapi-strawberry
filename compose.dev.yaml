@@ -23,8 +23,10 @@ services:
       - .:/usr/src
     expose:
       - "8000"
+    environment:
+      - DEBUG=True
     env_file:
-      - ./api/.env
+      - ./db/.env.dev
     depends_on:
       - postgres
   nginx:
